@@ -1,0 +1,20 @@
+1 - id,
+2 - pending,		
+3 - enabled,		
+4 - datetime,		
+5 - picture,			
+6 - name,	itemid, status
+7 - branchname, itemtype, storeid
+8 - address, description, userid
+9 - longitude, price, ratings
+10 - latitude,	producttypeid, review	
+11 - telnum, comment
+12 - deliverynum,		
+13 - email,
+14 - storetypeid,
+15 - distance,		
+16 - ratings,		
+17 - trafficlevel,
+18 - averagestatus,
+19 - trafficcount
+20 - lasttrafficdatetime
